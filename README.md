@@ -73,6 +73,9 @@ and your layout activity can be something like:
 
 ```
 
+Remember that you want the style AppTheme from the library to be applied. Depending upon how complex
+your application maybe and your res merge rules that you set up you might have to delete the
+default AppTheme in the res/values/styles.xml file in your application res.
 
 Target Android API Range
 ========================
