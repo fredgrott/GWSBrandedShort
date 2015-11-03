@@ -3,7 +3,7 @@ apply plugin: 'de.hannesstruss.godot'
 apply plugin: 'hugo'
 apply plugin: 'spoon'
 apply plugin: 'org.moallemi.advanced-build-version'
-apply plugin: 'view-inspector'
+
 
 
 advancedVersioning {
